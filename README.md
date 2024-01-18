@@ -6,9 +6,13 @@ Health AI 5 is a groundbreaking project at the intersection of healthcare and te
 
 # Features
 Data Analysis & Preprocessing: Rigorous data cleaning and normalization, utilizing descriptive statistics, missing value checks, and data visualization.
+
 Classification Model: Powered by XGBoost, the model excels in handling imbalanced datasets with boosted decision trees.
+
 Data Augmentation: Implementation of SMOTE and VAE-based techniques for enriching the dataset and improving model performance.
+
 Model Interpretation: Use of SHAP library for insightful model predictions interpretation.
+
 AI Fairness: Evaluation and mitigation of model biases to ensure fairness.
 
 # Results
